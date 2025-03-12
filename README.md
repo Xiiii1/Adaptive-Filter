@@ -56,9 +56,6 @@ The scripts generate filtered images and audio files. The effectiveness of filte
 - Optimize filter parameters for better noise reduction.
 - Extend support for real-time processing.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 Special thanks to researchers and developers contributing to adaptive filtering techniques.
 
